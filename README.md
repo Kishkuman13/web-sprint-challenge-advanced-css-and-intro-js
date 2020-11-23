@@ -27,6 +27,21 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
 
+
+
+1. Acessibility on the web is making sure that any user can have access to the websites that a developer builds.
+
+2. There are many different things one can do to ensure a website is accessible. 
+  2a. Using semantic html is very important for ease of access, specifically screen readers. 
+  2b. Making sure your website works and looks good on multiple devices is very important. 
+  2c. Also, using a css reset can help by making sure what you design is interpreted by different browsers as the same site. Along those same lines, having fallback attributes is very helpful in making sure the user sees the website as you intended.
+
+3. Variables are used as placeholders to simplify functions. For example, you may need to reference a specific item within an array (thisarray[1]). Instead of typing that each time, you could assign a simple variable that will reference the item. (var item = thisarray[1])
+
+4. Functions are very useful for many different things. They allow us to store and retrieve data. This can be used on the back-end as well as the front-end of web development.
+
+
+
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
